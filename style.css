@@ -1,0 +1,260 @@
+.heading
+{
+  font-size:23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float:none;
+  background: white ; 
+  padding:10px; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+  font-size: 18px ;
+}
+
+.copy_right_footer
+{
+ position:fixed;
+ color:white;
+ bottom:0;
+ width:100%;
+ background-color:grey;
+ line-height:3;
+ text-align:center;
+}
+img{
+    border-radius: 10px;
+    height:700px;
+    width:500px;
+    float:center;
+}
+.fan_span_googlelens{
+    font-size: 40px;
+   background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.fan_span_mobilenet{
+    font-size: 40px;
+    background:rgb(199, 198, 198);
+ border-radius: 20px;
+ padding-left: 10px;
+ padding-right:10px;
+}
+.fan{
+    background-color:coral;
+    border-radius:10px;
+    height:900px;
+    width:1900px;
+}
+.result
+{
+  background-color:white;
+  color:black;
+  height:50px;
+  width:150px;
+  font-size: 20px;
+}
+.label
+{
+  background-color:white;
+  color:black;
+  height:70px;
+  width:170px;
+  font-size: 40px;
+}
+.medical_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.medical_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.medical_box{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+.camel_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.camel_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.camel{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.shoe_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.shoe_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.shoe{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.brush_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.brush_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.brush{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.plant_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.plant_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.plant{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.gun_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.gun_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.gun{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.sissors_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.sissors_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.sissors{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.mouse_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.mouse_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.mouse{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
+
+.headphones_span_googlelens{
+  font-size: 40px;
+ background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.headphones_span_mobilenet{
+  font-size: 40px;
+  background:rgb(199, 198, 198);
+border-radius: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+.headphones{
+  background-color:coral;
+  border-radius:10px;
+  height:900px;
+  width:1900px;
+}
